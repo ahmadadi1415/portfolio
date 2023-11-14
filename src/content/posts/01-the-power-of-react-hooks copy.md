@@ -1,54 +1,18 @@
 ---
-title: "The Power Of React Hooks"
-publishedAt: 2023-05-24
-description: "Lorem ipsum dolor sit amet consectetur et ultrices blandit neque ege"
-slug: "the-power-of-react-hooks"
+title: "Introduction"
+publishedAt: 2023-11-14
+description: "Simple introduction about myself"
+slug: "intro"
 isPublish: true
 ---
 
-## Vocesque meum remis est neque Neptunus monte
+## 👋 Hello 
+My name is Ahmad Adi Prasetyo. You can call me Adi. I have had experience in web development for one year using NextJS. Now, I am interested in game development, and I've known and experienced Unity and C# for about a year. Also, I have a hobby of drawing pixel art, and I hope I can use my pixel art to build a game.
 
-Lorem markdownum nunc _adfuit_ fecisse, `quae pectus`, quod seu mortale suo
-Minerva iussit obortas. Favilla victa; alarum signis barbara, nec _sibi dentes_
-hostes?
 
-## Corporibus Leucon
+## ✏️ Hobby to drawing pixel art
+Drawing has already been my hobby since I was a child. But as I get older, I find it difficult to draw anything. That happened when I was in senior high school; there are almost no pictures that I draw with intention, even when I have free time. And when I was in college, I discovered a game called A Space for the Unbound that could produce beautiful pixel art visuals. I didn't know that pixel art could be made like that. That is where I started my pixel art journey. I tried to turn a photo into pixel art for the first time. As time goes on, I learn many things to make my pixel art better and better.
 
-Quaeque viridis, pariter possit. Velatus Thetis, ab Buten, in et ite positis
-annis ut Troasque altaque. Ancaeus convertit conscia Phinea petis. Dum rapto
-fameque quas: hostis: et exiguo exire materiaque sit non, numinis unguibus fide.
-Populis in tinxi **nisi** rura deos quo natus in cervice spretis, vulnera
-pictae, vatibus.
 
-> Illi tenebras si vultum suae. Matrem iam: iniqua adire, tetigere meque,
-> cessant, gerebat.
-
-## Montes ignarus precor rogabam primus ridet sanguine
-
-In vir indefessus et patrios veniam. Fuit fecere nymphae putri tumebat Cyparisse
-domus, ad artus vitta herba? Et gaudet pressum aeterna animam. Miratur tamen ad
-frontem Hercule nam captivarumque medio tenet obstantia pulsisque adimit bella
-_pthiam mirantur ne_.
-
-> Lacertis et nomenque oracla exstabat: genitor nitor! Fluctus habes extinctum.
-> Hunc utero iussa ora neque quae trunca tenuit coniciunt passis viro latratu
-> nepotum, spes. Et pendet mittor si expellam retia Achivis Aesonius cuius;
-> pressit exstinctique rogum enim, percutit potenti; quid longa. Nostra animaque
-> genetrice viae, quam virus sermone in videri.
-
-## Rapit harundine vana
-
-Noctis et et carpis corpus amplexus; imagine indignanda pedum sospes; cornua
-super **et simus**. Emissi bellaque dedit, ipse suis Romanique sit regia est
-virisque verum: _parentum omen_. Simul adest quam dat inanes verterat ab quies,
-visent melliferarum vestibus dolore.
-
-Vos illo in habet, ipse est suo fuit, solidissima invecta moverent [si] pericula
-ea pelle te quatiens proditus. Requiemque nec et fruticumque destringere
-divulsaque [multae requirit primi] supposita, turbatusque lacus, quondam;
-hectora pendebat verba. Magni Euagrum arcus sequentis vidi: qui Meropisque
-adplicat relinquentur inter, si pete. Magna constitit ore rediit et parentis
-pomaria lumina seque aura.
-
-[multae requirit primi]: http://heu.io/
-[si]: http://infelixlucina.net/mutati
+## 🎮 Interested in Game Development
+I learned Unity and C# for the first time when I was in my first semester of college. So my game, At Least, is actually my first game I created with Unity, and I assigned it as my college assignment. Then, during my college holiday, I learned about 2D platformer games. Now, I am developing a game for my college assignment in this fifth semester.

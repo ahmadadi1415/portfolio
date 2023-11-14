@@ -7,18 +7,33 @@ export type Project = {
 
 const projects: Project[] = [
   {
-    title: "Dictionary App",
-    techs: ["ReactJS (NextJS)", "react-query", "zod"],
-    link: "https://github.com/MaeWolff/dictionary-app",
+    title: "NextFindPark 🌐 (Backend Developer)",
+    techs: ["NextJS", "Typescript"],
+    link: "https://nextfindpark.vercel.app",
   },
   {
-    title: "Portfolio / Lina BLIDI",
-    techs: ["ReactJS (NextJS)", "TypeScript"],
-    link: "https://www.linablidi.fr/",
+    title: "Etnomedicine Finder 🌐(Fullstack Developer)",
+    techs: ["NextJS", "NextUI", "TypeScript"],
+    link: "https://etnomedicine-finder.vercel.app/",
   },
   {
-    title: "Portfolio / Template",
-    techs: ["Astro"],
+    title: "RSA Encryption Project 🌐 (Fullstack Developer)",
+    techs: ["NextJS", "TypeScript"],
+    link: "https://cryptography-with-encrypt-rsa.vercel.app",
+  },
+  {
+    title: "At Least 🎮",
+    techs: ["Unity", "C#"],
+    link: "https://envoidpxl.itch.io/at-least",
+  },
+  {
+    title: "Faint Star 🎮",
+    techs: ["Unity", "C#"],
+    link: "https://envoidpxl.itch.io/faint-star",
+  },
+  {
+    title: "Rogue of Logic 🎮",
+    techs: ["Unity", "C#"],
     link: "/",
     isComingSoon: true,
   },
