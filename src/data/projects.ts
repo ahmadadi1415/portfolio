@@ -34,8 +34,7 @@ const projects: Project[] = [
   {
     title: "Rogue of Logic 🎮",
     techs: ["Unity", "C#"],
-    link: "/",
-    isComingSoon: true,
+    link: "https://envoidpxl.itch.io/rogue-of-logic",
   },
 ];
 
