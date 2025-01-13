@@ -22,6 +22,21 @@ const projects: Project[] = [
     link: "https://cryptography-with-encrypt-rsa.vercel.app",
   },
   {
+    title: "NU BIM 🌐 (Backend Developer)",
+    techs: ["NextJS", "TypeScript"],
+    link: "https://nu-bim.vercel.app",
+  },
+  {
+    title: "SINUPI 🌐 (Backend Developer)",
+    techs: ["NextJS", "TypeScript"],
+    link: "https://sinupi.com",
+  },
+  {
+    title: "SINUMI 🌐 (Backend Developer)",
+    techs: ["NextJS", "TypeScript"],
+    link: "https://sinumi.com",
+  },
+  {
     title: "At Least 🎮",
     techs: ["Unity", "C#"],
     link: "https://envoidpxl.itch.io/at-least",
@@ -35,6 +50,22 @@ const projects: Project[] = [
     title: "Rogue of Logic 🎮",
     techs: ["Unity", "C#"],
     link: "https://envoidpxl.itch.io/rogue-of-logic",
+  },
+  {
+    title: "Project Dilemma 🎮",
+    techs: ["Unity", "C#"],
+    link: "https://jeremy-wowiling.itch.io/project-dilemma",
+  },
+  {
+    title: "Rescuter 🎮",
+    techs: ["Unity", "C#"],
+    link: "https://ajiana01.itch.io/rescuter",
+  },
+  {
+    title: "Project Provoke 🎮",
+    techs: ["Unity", "C#"],
+    link: "",
+    isComingSoon: true
   },
 ];
 

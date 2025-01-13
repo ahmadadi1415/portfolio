@@ -16,7 +16,7 @@ const presentation: Presentation = {
   title: "Nice to meet you, I’m Ahmad Adi Prasetyo 👋",
   // profile: "/profile.webp",
   description:
-    "Hey there! 👋 I'm a *web developer* with a year of experience in Next.js and TypeScript. Aside from that, I also dive into *game development* using Unity and C#, where I've got about a year of experience. Oh, and I love spending my free time *drawing pixel art* and creating assets for my games!",
+   "Hey there! 👋 I'm a fresh graduate in Informatics Engineering with a strong passion for creating and building interactive experiences. I have 1.5 years of experience in *game development* using Unity and C#, where I specialize in programming and bringing gameplay mechanics to life. Alongside game development, I have 2 years of experience as a *web developer*, focusing primarily on *backend* development with Next.js and TypeScript. In my free time, I enjoy drawing *pixel art*, turning creative ideas into reality!",
   socials: [
     {
       label: "Instagram",
